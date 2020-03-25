@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Felipe Wisniewski</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\nFusce pulvinar, sem eu ullamcorper fermentum, libero sem hendrerit ligula,
+        eu malesuada nunc sapien a ipsum.
+        \n\nPhasellus at tincidunt ipsum, in placerat erat. Donec nunc elit, sodales ut tincidunt eu,
+        placerat vitae ex. Praesent at porttitor nulla.
+        \n\nUt nec pretium arcu, sed vulputate arcu. Integer nec feugiat magna.
+        \n\nFusce pulvinar, sem eu ullamcorper fermentum, libero sem hendrerit ligula,
+        eu malesuada nunc sapien a ipsum.
+        \n\nPhasellus at tincidunt ipsum, in placerat erat. Donec nunc elit, sodales ut tincidunt eu,
+        placerat vitae ex. Praesent at porttitor nulla.
+        \n\nUt nec pretium arcu, sed vulputate arcu. Integer nec feugiat magna.
+    </string>
+    <string name="what_is_your_nick_name">What\'s your Nickname ?</string>
+    <string name="done_button">Done</string>
+
+</resources>
